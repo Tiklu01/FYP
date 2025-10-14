@@ -118,7 +118,7 @@ If you want to use your local environment for development (for live reload, lint
    npm run dev
    ```
 3. **Access the app:**
-   - Open [http://localhost:3000](http://localhost:3000) or [http://0.0.0.0:3000](http://0.0.0.0:3000) in your browser.
+   - Open [http://localhost:3000](http://localhost:3000) or [http://0.0.0.0:3000](http://0.0.0.0:3000) or [http://localhost](http://localhost) or [http://0.0.0.0](http://0.0.0.0) in your browser.
 
 ---
 
