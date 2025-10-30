@@ -17,7 +17,7 @@ export default function Hero() {
 
           <div className="mt-8 flex flex-wrap gap-4">
             <a
-              href="/(auth)/signup"
+              href="/login"
               className="px-6 py-3 rounded-lg bg-sky-600 text-white font-medium shadow hover:bg-sky-700"
             >
               Get Started
